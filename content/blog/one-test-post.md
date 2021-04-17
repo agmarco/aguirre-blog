@@ -5,5 +5,16 @@ title: One test post
 description: description goes here
 ---
 **Testing a blog post**
+testing markdown
+
+```js
+
+function helloWorld() {
+
+  console.log("testing code!")
+
+}
+
+```
 
 mrc
