@@ -1,5 +1,5 @@
 backend:
-  name: agmarco
+  name: github
   repo: agmarco/aguirre-blog
 
 media_folder: content/assets
