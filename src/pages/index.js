@@ -14,15 +14,13 @@ class IndexPage extends React.Component {
         <SEO
           title="Home"
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}
-        />
-        <img style={{ margin: 0 }} src="./GatsbyScene.svg" alt="Gatsby Scene" />
+        />        
         <h1>
-          Hey people{" "}
+          Splash screen {" "}
           <span role="img" aria-label="wave emoji">
             👋
           </span>
-        </h1>
-        <p>Welcome to your new Gatsby website. You are on your home page.</p>
+        </h1>        
         <p>
           This starter comes out of the box with styled components and Gatsby's
           default starter blog running on Netlify CMS.
